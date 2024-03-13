@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  *
- * @author Patricio Salamanca
+ * @author Robinson Concha
  */
 public class Alojamiento {
 private String rut;
