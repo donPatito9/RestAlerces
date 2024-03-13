@@ -7,7 +7,7 @@ package com.iplacex.restexamen;
 
 /**
  *
- * @author Patricio Salamanaca
+ * @author Robinson Concha
  */
 public class TipoVehiculo {
     private int idTipoVehiculo; 
