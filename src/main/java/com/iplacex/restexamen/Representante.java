@@ -7,7 +7,7 @@ package com.iplacex.restexamen;
 
 /**
  *
- * @author Patrcio Salamanca
+ * @author Robinson Concha
  */
 public class Representante {
     private String rut;
