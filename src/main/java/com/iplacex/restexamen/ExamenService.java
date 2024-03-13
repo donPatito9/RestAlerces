@@ -19,7 +19,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 /**
  *
- * @author Patricio Salamanca
+ * @author Robinson Concha
  */
 
      @Path("/alerces")
