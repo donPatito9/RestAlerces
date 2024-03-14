@@ -7,7 +7,7 @@ package com.iplacex.restexamen;
 
 /**
  *
- * @author Us
+ * @author Robinson Concha
  */
 public class Usuario {
      private String userName;
